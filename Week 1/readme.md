@@ -15,6 +15,18 @@ For the first week we will be covering some basic topics:
 * [Classes and Objects](#classes-and-objects)
 * [File Handling (Optional)](#file-handling-optional)
 * [Assignment](#assignment)
+Then we'll go through some 
+# Data Science Libraries!
+
+Now, we will look at Applications of Python in Data Analysis fields and will cover various python libraries used for this namely :
+* [Numpy](#Numpy)
+* [Pandas](#Pandas)
+* [Matplotlib](#Matplotlib)
+* [Seaborn](#Seaborn)
+* [Scikit-learn](#Scikit-learn)
+
+
+Let's get this party started!
 
 Python is the most diverse language with very varied applications in different fields such as Research, Machine Learning, Backend Web Development, Data Visualisation, Web Scraping and much more, and this is possible only because of the different libraries and frameworks available for Python.In subsequent weeks we will be covering some amazing applications of python.
 Let's get started!
@@ -200,7 +212,7 @@ Once you are done with the installation part , you can use it by importing it in
   
 ### Getting Started With Numpy
 
-Check this [notebook](https://github.com/cyberbyte53/SOC-22/blob/main/Week-2/NumPy.ipynb) to get basic knowledge of Numpy.Relevant links to websites and documentations have been provided in the notebook itself.  
+Check this [notebook](https://github.com/Agam9427/WiDS-2022-23/blob/main/Week%201/Numpy.ipynb) to get basic knowledge of Numpy.Relevant links to websites and documentations have been provided in the notebook itself.  
 
 
 
@@ -219,7 +231,7 @@ Pandas take data in a CSV or TSV file or a SQL database and create a Python obje
 
 ### Getting Started With Pandas
 
-Check this [notebook](https://github.com/cyberbyte53/SOC-22/blob/main/Week-2/Pandas.ipynb) to get basic knowledge of Pandas .Relevant links to websites and documentations have been provided in the notebook itself.  
+Check this [notebook](https://github.com/Agam9427/WiDS-2022-23/blob/main/Week%201/Pandas.ipynb) to get basic knowledge of Pandas .Relevant links to websites and documentations have been provided in the notebook itself.  
 
 
 
@@ -235,7 +247,7 @@ Once you are done with the installation part , you can use it by importing it in
 
 ### Getting Started With Matplotlib
 
-Check this [notebook](https://github.com/cyberbyte53/SOC-22/blob/main/Week-2/Matplotlib.ipynb) to get basic knowledge of Pandas .Relevant links to websites and documentations have been provided in the notebook itself.  
+Check this [notebook](https://github.com/Agam9427/WiDS-2022-23/blob/main/Week%201/Matplotlib.ipynb) to get basic knowledge of Pandas .Relevant links to websites and documentations have been provided in the notebook itself.  
 
  
  
