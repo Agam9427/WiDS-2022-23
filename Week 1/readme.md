@@ -150,7 +150,7 @@ When you write a class, you define the general behavior that a whole category of
 
 Making an object from a class is called _instantiation_, and you work with _instances_ of a class. You’ll specify the kind of information that can be stored in instances, and you’ll define the actions that can be taken with these _instances_.
 
-You can visit [this notebook](https://github.com/cyberbyte53/SOC-22/blob/main/Week-1/Classes.ipynb) to learn about classes and objects.   
+You can visit [this notebook](https://github.com/Agam9427/WiDS-2022-23/blob/main/Week%201/Classes.ipynb) to learn about classes and objects.   
 You can also go through [this video](https://www.youtube.com/watch?v=jQiUOV15IRI&list=PLzMcBGfZo4-l1MqB1zoYfqzlj_HH-ZzXt&index=2).
 
 
