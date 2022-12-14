@@ -172,7 +172,7 @@ This brings us to the end of this week's material. By now you should  be familia
 
 ## Assignment
 
-You should now be able to complete the snippet of code designed to read a particular piece of text and answer user's queries about certain words by printing the context in which these words appeared in the text. You can find it as a Jupyter Notebook [here](https://github.com/cyberbyte53/SOC-22/blob/main/Week-1/AssignmentForSnippetCompletion.ipynb).
+You should now be able to complete the snippet of code designed to read a particular piece of text and answer user's queries about certain words by printing the context in which these words appeared in the text. You can find it as a Jupyter Notebook [here](https://github.com/Agam9427/WiDS-2022-23/blob/main/Week%201/Assignment.ipynb).
 
 **Optional Assignment** : Think Completing the Snippet was a piece of cake for you? Learn about the Goodstein Function from [here](https://en.wikipedia.org/wiki/Goodstein%27s_theorem#Goodstein_sequences), then try to implement a function which calculates the the kth term of G(m). 
 
