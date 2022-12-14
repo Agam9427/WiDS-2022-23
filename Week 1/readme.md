@@ -198,7 +198,6 @@ Now, we will look at Applications of Python in Data Analysis fields and will cov
 * [Matplotlib](#Matplotlib)
 * [Seaborn](#Seaborn)
 * [Scikit-learn](#Scikit-learn)
-* [Assignment](#Assignment)
 
 Let's get this party started!
 
