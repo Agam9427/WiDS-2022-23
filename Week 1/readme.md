@@ -15,6 +15,7 @@ For the first week we will be covering some basic topics:
 * [Classes and Objects](#classes-and-objects)
 * [File Handling (Optional)](#file-handling-optional)
 * [Assignment](#assignment)
+
 Then we'll go through some 
 # Data Science Libraries!
 
