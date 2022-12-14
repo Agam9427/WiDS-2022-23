@@ -270,5 +270,7 @@ Check out [this documentation](https://scikit-learn.org/stable/) to get a deeper
 
 ## Data Collection
 → The quantity & quality of your data dictate how accurate our model is
+
 → The outcome of this step is generally a representation of data (Guo simplifies to specifying a table) which we will use for training
+
 → Using pre-collected data, by way of datasets from Kaggle, UCI, etc., still fits into this step
