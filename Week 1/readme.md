@@ -99,7 +99,7 @@ Make sure you have covered the following topics -
 
 ## Functions
 Functions are the named blocks of code that are designed to do one specific job. When you want to perform a particular task that you’ve defined in a function, you call the name of that function responsible for it. If you need to perform that task multiple times throughout your program, you don't need to type all the code for the same task again and again; you just call the function dedicated to handling that task, and the call tells Python to run the code inside the function. You’ll find that using functions makes your programs easier to write, read, test, and fix.
-You can see [this notebook](https://github.com/cyberbyte53/SOC-22/blob/main/Week-1/Functions.ipynb) which covers some details about the functions.  
+You can see [this notebook](https://github.com/Agam9427/WiDS-2022-23/blob/main/Week%201/Functions.ipynb) which covers some details about the functions.  
 If you prefer to watch videos to learn you can head over to [this link](https://www.youtube.com/watch?v=1OuRhD7FmTA&list=PLzMcBGfZo4-mFu00qxl0a67RhjjZj3jXm&index=12).
 
 ## **Scope of a Variable**
