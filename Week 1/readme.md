@@ -120,7 +120,7 @@ If you prefer to watch videos you can go through [this video](https://www.youtub
 One advantage of functions is the way they separate blocks of code from your main program. By using descriptive names for your functions, your main program will be much easier to follow. You can go a step further by storing your functions in a separate file called a module and then importing that module into your main program.
 Storing your functions in a separate file allows you to hide the details of your program’s code and focus on its higher-level logic. It also allows you to re-use functions in many different programs. When you store your functions in separate files, you can share those files with other programmers without having to share your entire program. Knowing how to import functions also allows you to use libraries of functions that other programmers have written.
 
-You can go through [this notebook](https://github.com/cyberbyte53/SOC-22/blob/main/Week-1/Modules_and_Packages.ipynb) to learn about modules and packages.
+You can go through [this notebook](https://github.com/Agam9427/WiDS-2022-23/blob/main/Week%201/Modules%26Packages.ipynb) to learn about modules and packages.
 
 ## **Iterators**
 Iterator in python is any python type that can be used with a ‘for in loop’. Python lists, tuples, dicts and sets are all examples of inbuilt iterators. These types are iterators because they implement following methods.In fact, any object that wants to be an iterator must implement following methods.
