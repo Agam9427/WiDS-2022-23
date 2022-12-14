@@ -16,7 +16,7 @@ For the first week we will be covering some basic topics:
 * [File Handling (Optional)](#file-handling-optional)
 * [Assignment](#assignment)
 
-Then we'll go through some 
+Then we'll go through some data science libraries.
 # Data Science Libraries!
 
 Now, we will look at Applications of Python in Data Analysis fields and will cover various python libraries used for this namely :
@@ -26,6 +26,13 @@ Now, we will look at Applications of Python in Data Analysis fields and will cov
 * [Seaborn](#Seaborn)
 * [Scikit-learn](#Scikit-learn)
 
+ And Finally, we'll start with a basic introduction of Machine Learning
+ 
+ # Getting Started With Machine Learning
+ 
+ The two main and the most time consuming steps(which include a bunch of substeps) of machine learning will be taken care of in this week namely :
+ * [Data Collection](#Data Collection)
+ * [Data Preparation](#Data Preparation)
 
 Let's get this party started!
 
@@ -190,17 +197,6 @@ You should now be able to complete the snippet of code designed to read a partic
 **Optional Assignment** : Think Completing the Snippet was a piece of cake for you? Learn about the Goodstein Function from [here](https://en.wikipedia.org/wiki/Goodstein%27s_theorem#Goodstein_sequences), then try to implement a function which calculates the the kth term of G(m). 
 
 
-# Data Science Libraries!
-
-Now, we will look at Applications of Python in Data Analysis fields and will cover various python libraries used for this namely :
-* [Numpy](#Numpy)
-* [Pandas](#Pandas)
-* [Matplotlib](#Matplotlib)
-* [Seaborn](#Seaborn)
-* [Scikit-learn](#Scikit-learn)
-
-Let's get this party started!
-
 ## Numpy
 ### What is NumPy?
 NumPy stands for Numerical Python. One of the most fundamental packages in Python, NumPy is a general-purpose array-processing package.It is a Python library used for working with arrays.It provides high-performance multidimensional array objects and tools to work with the arrays. NumPy is an efficient container of generic multi-dimensional data.
@@ -272,3 +268,7 @@ Scikit-learn comes loaded with a lot of features. Here are a few of them to help
 
 Check out [this documentation](https://scikit-learn.org/stable/) to get a deeper understanding of deploying it in machine learning, pre-processing, cross-validation and visualization algorithms.
 
+## Data Collection
+→ The quantity & quality of your data dictate how accurate our model is
+→ The outcome of this step is generally a representation of data (Guo simplifies to specifying a table) which we will use for training
+→ Using pre-collected data, by way of datasets from Kaggle, UCI, etc., still fits into this step
