@@ -14,7 +14,7 @@ For the first week we will be covering some basic topics:
 * [Some Standard libraries of python](#some-standard-libraries-of-python)
 * [Classes and Objects](#classes-and-objects)
 * [File Handling (Optional)](#file-handling-optional)
-* [Assignment](#assignment)
+* [Assignment 1](#assignment)
 
 Then we'll go through some data science libraries.
 # Data Science Libraries!
@@ -33,6 +33,8 @@ Now, we will look at Applications of Python in Data Analysis fields and will cov
  The two main and the most time consuming steps(which include a bunch of substeps) of machine learning will be taken care of in this week namely :
  * [Data Collection](#Data Collection)
  * [Data Preparation](#Data Preparation)
+ * [Assignment 2](#Assignment 2)
+ * [Challenging Assignment(Hard)](#Optional Assignment (Hard))
 
 Let's get this party started!
 
@@ -295,7 +297,7 @@ Refer to the three files namely [data_october.csv](https://github.com/Agam9427/W
 Combine the three files programmatically, Carry out EDA and draw some inferences by working with the data. These inferences can be related to anything that can help the firm make decisions or create new strategies. Keep a .ipynb python notebook for the code and a word/doc file for inferences. Submission link will be provided :). I'll share my solution for this at the end.
 
 # Optional Assignment (Hard)
-This will be a big challenge and completing this will surely make you stand out.
+This will be a big challenge and completing this will surely make you stand out. You might have to look at [NLP](https://www.youtube.com/watch?v=7WfoYl-EPtI) for this. Good luck :)!!
 
 **DATA EXTRACTION AND NLP**
 
