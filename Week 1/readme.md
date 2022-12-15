@@ -291,4 +291,55 @@ Check out [this documentation](https://scikit-learn.org/stable/) to get a deeper
 Learn more about [Data Preparation](https://www.alteryx.com/glossary/data-preparation) and **Exploratory Data Analysis** which is arguably the most important step. Here's a good [Youtube Playlist](https://youtube.com/playlist?list=PLZoTAELRMXVPQyArDHyQVjQxjj_YmEuO9) for EDA. [Here's](https://www.youtube.com/watch?v=v5dqavbyE-I) a short video recap for EDA.
 
 ## Assignment 2
+Refer to the three files namely [data_october.csv](https://github.com/Agam9427/WiDS-2022-23/blob/main/Week%201/data_october.csv),[data_november.csv](https://github.com/Agam9427/WiDS-2022-23/blob/main/Week%201/data_november.csv) and [data_december.csv](https://github.com/Agam9427/WiDS-2022-23/blob/main/Week%201/data_december.csv)
+Combine the three files programmatically, Carry out EDA and draw some inferences by working with the data. These inferences can be related to anything that can help the firm make decisions or create new strategies. Keep a .ipynb python notebook for the code and a word/doc file for inferences. Submission link will be provided :). I'll share my solution for this at the end.
+
+## Optional Assignment (Hard)
+This will be a big challenge and completing this will surely make you stand out.
+
+**DATA EXTRACTION AND NLP**
+
+## Objective
+The objective of this assignment is to extract textual data articles from the given URL and perform text analysis to compute variables that are explained below. 
+
+## Data Extraction
+
+For each of the articles, given in the input.xlsx file, extract the article text and save the extracted article in a text file with URL_ID as its file name.
+
+While extracting text, please make sure your program extracts only the article title and the article text. It should not extract the website header, footer, or anything other than the article text. 
+
+** NOTE: YOU MUST USE PYTHON PROGRAMMING TO EXTRACT DATA FROM THE URLs. YOU CAN USE BEATIFULSOUP, SELENIUM OR SCRAPY, OR ANY OTHER PYTHON LIBRARIES THAT YOU PREFER FOR DATA CRAWLING. **
+
+## Data Analysis
+For each of the extracted texts from the article, perform textual analysis and compute variables, given in the output structure excel file. You need to save the output in the exact order as given in the output structure file, “Output Data Structure.xlsx”
+
+
+
+## Variables
+Definition of each of the variables is given in the “Text Analysis.docx” file.
+Look for these variables in the analysis document (Text Analysis.docx):
+* POSITIVE SCORE
+* NEGATIVE SCORE
+* POLARITY SCORE
+* SUBJECTIVITY SCORE
+* AVG SENTENCE LENGTH
+* PERCENTAGE OF COMPLEX WORDS
+* FOG INDEX
+* AVG NUMBER OF WORDS PER SENTENCE
+* COMPLEX WORD COUNT
+* WORD COUNT
+* SYLLABLE PER WORD
+* PERSONAL PRONOUNS
+* AVG WORD LENGTH
+
+## Output Data Structure
+Output Variables: 
+* All input variables in “Input.xlsx”
+* POSITIVE SCORE
+* NEGATIVE SCORE
+* POLARITY SCORE
+* SUBJECTIVITY SCORE
+* AVG SENTENCE LENGTH
+* PERCENTAGE OF COMPLEX WORDS
+
 
