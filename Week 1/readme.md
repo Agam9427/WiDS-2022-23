@@ -301,10 +301,10 @@ This will be a big challenge and completing this will surely make you stand out.
 
 **DATA EXTRACTION AND NLP**
 
-## Objective
+### Objective
 The objective of this assignment is to extract textual data articles from the given URL and perform text analysis to compute variables that are explained below. 
 
-## Data Extraction
+### Data Extraction
 
 For each of the articles, given in the [input.xlsx](https://github.com/Agam9427/WiDS-2022-23/blob/main/Week%201/Input.xlsx%20-%20Sheet1.csv) file, extract the article text and save the extracted article in a text file with URL_ID as its file name.
 
@@ -312,12 +312,12 @@ While extracting text, please make sure your program extracts only the article t
 
 ** NOTE: YOU MUST USE PYTHON PROGRAMMING TO EXTRACT DATA FROM THE URLs. YOU CAN USE BEATIFULSOUP, SELENIUM OR SCRAPY, OR ANY OTHER PYTHON LIBRARIES THAT YOU PREFER FOR DATA CRAWLING. **
 
-## Data Analysis
+### Data Analysis
 For each of the extracted texts from the article, perform textual analysis and compute variables, given in the [output structure excel file](https://github.com/Agam9427/WiDS-2022-23/blob/main/Week%201/Output%20Data%20Structure.xlsx%20-%20Sheet1.csv). You need to save the output in the exact order as given in the output structure file, [“Output Data Structure.xlsx”](https://github.com/Agam9427/WiDS-2022-23/blob/main/Week%201/Output%20Data%20Structure.xlsx%20-%20Sheet1.csv)
 
 
 
-## Variables
+### Variables
 Definition of each of the variables is given in the [“Text Analysis.docx”](https://github.com/Agam9427/WiDS-2022-23/blob/main/Week%201/Output%20Data%20Structure.xlsx%20-%20Sheet1.csv) file.
 Look for these variables in the analysis document (Text Analysis.docx):
 * POSITIVE SCORE
@@ -334,7 +334,7 @@ Look for these variables in the analysis document (Text Analysis.docx):
 * PERSONAL PRONOUNS
 * AVG WORD LENGTH
 
-## Output Data Structure
+### Output Data Structure
 Output Variables: 
 * All input variables in [“Input.xlsx”](https://github.com/Agam9427/WiDS-2022-23/blob/main/Week%201/Input.xlsx%20-%20Sheet1.csv)
 * POSITIVE SCORE
