@@ -296,7 +296,7 @@ Learn more about [Data Preparation](https://www.alteryx.com/glossary/data-prepar
 Refer to the three files namely [data_october.csv](https://github.com/Agam9427/WiDS-2022-23/blob/main/Week%201/data_october.csv),[data_november.csv](https://github.com/Agam9427/WiDS-2022-23/blob/main/Week%201/data_november.csv) and [data_december.csv](https://github.com/Agam9427/WiDS-2022-23/blob/main/Week%201/data_december.csv)
 Combine the three files programmatically, Carry out EDA and draw some inferences by working with the data. These inferences can be related to anything that can help the firm make decisions or create new strategies. Keep a .ipynb python notebook for the code and a word/doc file for inferences. Submission link will be provided :). I'll share my solution for this at the end.
 
-# Optional Assignment (Hard)
+## Optional Assignment (Hard)
 This will be a big challenge and completing this will surely make you stand out. You might have to look at [NLP](https://www.youtube.com/watch?v=7WfoYl-EPtI) for this. Good luck :)!!
 
 **DATA EXTRACTION AND NLP**
