@@ -273,4 +273,22 @@ Check out [this documentation](https://scikit-learn.org/stable/) to get a deeper
 
 → The outcome of this step is generally a representation of data (Guo simplifies to specifying a table) which we will use for training
 
-→ Using pre-collected data, by way of datasets from Kaggle, UCI, etc., still fits into this step
+→ Using pre-collected data, by way of datasets from [Kaggle](https://www.kaggle.com/), [UCI](https://archive.ics.uci.edu/ml/datasets.php), etc., still fits into this step
+
+→ Another way of collecting data is **[Web Scraping](https://www.geeksforgeeks.org/what-is-web-scraping-and-how-to-use-it/)** using packages like BeautifulSoup. Learn web scraping in python from [here](https://www.geeksforgeeks.org/implementing-web-scraping-python-beautiful-soup/). Also here's a good [Youtube Video](https://www.youtube.com/watch?v=uufDGjTuq34) .
+
+## Data Preparation
+→ Wrangle data and prepare it for training
+
+→ Clean that which may require it (remove duplicates, correct errors, deal with missing values, normalization, data type conversions, etc.)
+
+→ Randomize data, which erases the effects of the particular order in which we collected and/or otherwise prepared our data
+
+→ Visualize data to help detect relevant relationships between variables or class imbalances (bias alert!), or perform other exploratory analysis
+
+→ Split into training and evaluation sets
+
+Learn more about [Data Preparation](https://www.alteryx.com/glossary/data-preparation) and **Exploratory Data Analysis** which is arguably the most important step. Here's a good [Youtube Playlist](https://youtube.com/playlist?list=PLZoTAELRMXVPQyArDHyQVjQxjj_YmEuO9) for EDA. [Here's](https://www.youtube.com/watch?v=v5dqavbyE-I) a short video recap for EDA.
+
+## Assignment 2
+
