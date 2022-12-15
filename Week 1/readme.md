@@ -31,10 +31,10 @@ Now, we will look at Applications of Python in Data Analysis fields and will cov
  # Getting Started With Machine Learning
  
  The two main and the most time consuming steps(which include a bunch of substeps) of machine learning will be taken care of in this week namely :
- * [Data Collection](#Data Collection)
- * [Data Preparation](#Data Preparation)
- * [Assignment 2](#Assignment 2)
- * [Challenging Assignment(Hard)](#Optional Assignment (Hard))
+ * [Data Collection](#Data-Collection)
+ * [Data Preparation](#Data-Preparation)
+ * [Assignment 2](#Assignment-2)
+ * [Challenging Assignment(Hard)](#Optional-Assignment-(Hard))
 
 Let's get this party started!
 
