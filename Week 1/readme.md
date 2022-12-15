@@ -304,19 +304,19 @@ The objective of this assignment is to extract textual data articles from the gi
 
 ## Data Extraction
 
-For each of the articles, given in the input.xlsx file, extract the article text and save the extracted article in a text file with URL_ID as its file name.
+For each of the articles, given in the [input.xlsx](https://github.com/Agam9427/WiDS-2022-23/blob/main/Week%201/Input.xlsx%20-%20Sheet1.csv) file, extract the article text and save the extracted article in a text file with URL_ID as its file name.
 
 While extracting text, please make sure your program extracts only the article title and the article text. It should not extract the website header, footer, or anything other than the article text. 
 
 ** NOTE: YOU MUST USE PYTHON PROGRAMMING TO EXTRACT DATA FROM THE URLs. YOU CAN USE BEATIFULSOUP, SELENIUM OR SCRAPY, OR ANY OTHER PYTHON LIBRARIES THAT YOU PREFER FOR DATA CRAWLING. **
 
 ## Data Analysis
-For each of the extracted texts from the article, perform textual analysis and compute variables, given in the output structure excel file. You need to save the output in the exact order as given in the output structure file, “Output Data Structure.xlsx”
+For each of the extracted texts from the article, perform textual analysis and compute variables, given in the [output structure excel file](https://github.com/Agam9427/WiDS-2022-23/blob/main/Week%201/Output%20Data%20Structure.xlsx%20-%20Sheet1.csv). You need to save the output in the exact order as given in the output structure file, [“Output Data Structure.xlsx”](https://github.com/Agam9427/WiDS-2022-23/blob/main/Week%201/Output%20Data%20Structure.xlsx%20-%20Sheet1.csv)
 
 
 
 ## Variables
-Definition of each of the variables is given in the “Text Analysis.docx” file.
+Definition of each of the variables is given in the [“Text Analysis.docx”](https://github.com/Agam9427/WiDS-2022-23/blob/main/Week%201/Output%20Data%20Structure.xlsx%20-%20Sheet1.csv) file.
 Look for these variables in the analysis document (Text Analysis.docx):
 * POSITIVE SCORE
 * NEGATIVE SCORE
@@ -334,7 +334,7 @@ Look for these variables in the analysis document (Text Analysis.docx):
 
 ## Output Data Structure
 Output Variables: 
-* All input variables in “Input.xlsx”
+* All input variables in [“Input.xlsx”](https://github.com/Agam9427/WiDS-2022-23/blob/main/Week%201/Input.xlsx%20-%20Sheet1.csv)
 * POSITIVE SCORE
 * NEGATIVE SCORE
 * POLARITY SCORE
