@@ -1,5 +1,5 @@
 # Intro to ML
-For this week we will be reading articles related to ML and we'll start with the [applications in finance](#Applications-in-Finance!).
+For this week we will be reading articles related to ML and we'll start with the [applications in finance](# Applications-in-Finance!).
 
 1. [What is Machine Learning?](https://www.edureka.co/blog/what-is-machine-learning/)
 2. [Mathematics for Machine Learning](https://www.edureka.co/blog/mathematics-for-machine-learning/)
