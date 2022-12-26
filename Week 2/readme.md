@@ -59,7 +59,7 @@ Please, Attempt the first Compulsory Exercise before proceeding to the second!
 * There's something which goes by the name of Momentum Anamoly in Trading, which says that what was strongly going up in the near past will probably continue to go up shortly. Stocks which outperform peers on 3-12 month period tend to perform well also in the future.
 * You may read more about Momentum from [here](https://quantpedia.com/strategies/momentum-factor-effect-in-stocks/).
 
-You can make use of instructions which we've provided for you in this [easier version](https://github.com/wncc/TSS-2021/blob/main/Python%20%26%20its%20Applications/Week-2/Momentum.ipynb) of the assignment or implement everything from scratch in this [notebook](https://github.com/wncc/TSS-2021/blob/main/Python%20%26%20its%20Applications/Week-2/MomentumH.ipynb) containing only the bare minimum instructions required to implement a strategy which exploits the Momentum Effect in Stock Trading.
+You can make use of instructions which we've provided for you in this [easier version](https://github.com/Agam9427/WiDS-2022-23/blob/main/Week%202/Momentum.ipynb) of the assignment or implement everything from scratch in this [notebook](https://github.com/Agam9427/WiDS-2022-23/blob/main/Week%202/MomentumH.ipynb) containing only the bare minimum instructions required to implement a strategy which exploits the Momentum Effect in Stock Trading.
 
 #### Paired Switching
 
@@ -67,7 +67,7 @@ You can make use of instructions which we've provided for you in this [easier ve
 * Next, Read up about [Paired Switching](https://quantpedia.com/strategies/paired-switching/).
 * The basic idea behind Paired Switching is to select two stocks which are negatively co-related, so that if one falls then the other should be rising shortly afterwards and vice versa.
 
-You can start implementing this strategy by taking help of instructions given in this [easier version](https://github.com/wncc/TSS-2021/blob/main/Python%20%26%20its%20Applications/Week-2/Pairs.ipynb) of the assignment, or implement everything from Scratch in this [notebook](https://github.com/wncc/TSS-2021/blob/main/Python%20%26%20its%20Applications/Week-2/PairsH.ipynb) containing only the bare minimum instructions required to implement the strategy.
+You can start implementing this strategy by taking help of instructions given in this [easier version](https://github.com/Agam9427/WiDS-2022-23/blob/main/Week%202/Pairs.ipynb) of the assignment, or implement everything from Scratch in this [notebook](https://github.com/Agam9427/WiDS-2022-23/blob/main/Week%202/PairsH.ipynb) containing only the bare minimum instructions required to implement the strategy.
 
 ### Optional Assignments
 
