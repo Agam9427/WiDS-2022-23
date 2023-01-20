@@ -1,1 +1,1 @@
-I am providing my solution for Paired Switching. Momentum trading is very easy to implement after looking at this solution. The code is not well commented and might be slow and unoptimized because I wrote this in my freshie year. Bear with me:/?
+### I am providing my solution for Paired Switching. Momentum trading is very easy to implement after looking at this solution. The code is not well commented and might be slow and unoptimized because I wrote this in my freshie year. Bear with me:/?
